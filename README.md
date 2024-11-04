@@ -1,4 +1,6 @@
-## Hi there 👋
+## <p style = 'text-align:center'> Hi there 👋</p>
+
+<image src='./image/main_artwork_3.gif'>
 
 <!--
 **Wang-fighter/Wang-fighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
