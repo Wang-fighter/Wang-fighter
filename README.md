@@ -1,4 +1,4 @@
-## <p style = 'text-align:center'> Hi there 👋</p>
+## <p align="center"> Hi there 👋</p>
 
 <image src='./image/main_artwork_3.gif'>
 
